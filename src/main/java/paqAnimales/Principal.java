@@ -5,7 +5,7 @@ public class Principal {
     public static void main(String[] args) {
 
 /*
-        Prueba
+        Prueba 2
 Esquema de clases de reino-animal        
                   Animal
                     |
